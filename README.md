@@ -1,2 +1,0 @@
-# Amazone-clone
-#html,css
